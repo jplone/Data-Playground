@@ -16,7 +16,7 @@ public class PracticeREST {
 
         private void testIt(){
 
-        String https_url = "https://swapi.co/api/people/3";
+        String https_url = "https://swapi.co/api/people/3/?format=json";
         URL url;
 
         try{
